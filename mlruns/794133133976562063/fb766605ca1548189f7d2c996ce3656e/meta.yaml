@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/794133133976562063/fb766605ca1548189f7d2c996ce3656e/artifacts
+end_time: 1779209005331
+entry_point_name: ''
+experiment_id: '794133133976562063'
+lifecycle_stage: active
+run_id: fb766605ca1548189f7d2c996ce3656e
+run_name: learned-shoat-107
+run_uuid: fb766605ca1548189f7d2c996ce3656e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779209005306
+status: 4
+tags: []
+user_id: Marah

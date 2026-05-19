@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/631014147619112504/15ba2bf6215b483f8832f5a52da54361/artifacts
+end_time: 1778782156545
+entry_point_name: ''
+experiment_id: '631014147619112504'
+lifecycle_stage: active
+run_id: 15ba2bf6215b483f8832f5a52da54361
+run_name: able-moose-768
+run_uuid: 15ba2bf6215b483f8832f5a52da54361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778782150778
+status: 3
+tags: []
+user_id: Marah

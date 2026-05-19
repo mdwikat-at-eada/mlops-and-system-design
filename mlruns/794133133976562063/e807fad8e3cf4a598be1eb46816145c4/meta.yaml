@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/794133133976562063/e807fad8e3cf4a598be1eb46816145c4/artifacts
+end_time: 1779209001520
+entry_point_name: ''
+experiment_id: '794133133976562063'
+lifecycle_stage: active
+run_id: e807fad8e3cf4a598be1eb46816145c4
+run_name: gifted-shark-294
+run_uuid: e807fad8e3cf4a598be1eb46816145c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779209001494
+status: 4
+tags: []
+user_id: Marah

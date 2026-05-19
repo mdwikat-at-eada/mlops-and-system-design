@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/520539368435182165/2b902cf05d2b45979ba4feffd8651345/artifacts
+end_time: 1779211542220
+entry_point_name: ''
+experiment_id: '520539368435182165'
+lifecycle_stage: active
+run_id: 2b902cf05d2b45979ba4feffd8651345
+run_name: intrigued-hawk-342
+run_uuid: 2b902cf05d2b45979ba4feffd8651345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779211537217
+status: 3
+tags: []
+user_id: Marah

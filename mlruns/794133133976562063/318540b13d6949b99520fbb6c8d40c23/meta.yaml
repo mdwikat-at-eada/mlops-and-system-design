@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/794133133976562063/318540b13d6949b99520fbb6c8d40c23/artifacts
+end_time: 1779208986354
+entry_point_name: ''
+experiment_id: '794133133976562063'
+lifecycle_stage: active
+run_id: 318540b13d6949b99520fbb6c8d40c23
+run_name: rogue-swan-320
+run_uuid: 318540b13d6949b99520fbb6c8d40c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779208986329
+status: 4
+tags: []
+user_id: Marah

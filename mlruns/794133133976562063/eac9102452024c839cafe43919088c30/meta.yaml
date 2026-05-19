@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/794133133976562063/eac9102452024c839cafe43919088c30/artifacts
+end_time: 1779209150108
+entry_point_name: ''
+experiment_id: '794133133976562063'
+lifecycle_stage: active
+run_id: eac9102452024c839cafe43919088c30
+run_name: colorful-sheep-183
+run_uuid: eac9102452024c839cafe43919088c30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779209150070
+status: 4
+tags: []
+user_id: Marah

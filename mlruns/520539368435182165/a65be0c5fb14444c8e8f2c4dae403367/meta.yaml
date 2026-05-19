@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/520539368435182165/a65be0c5fb14444c8e8f2c4dae403367/artifacts
+end_time: 1779211556725
+entry_point_name: ''
+experiment_id: '520539368435182165'
+lifecycle_stage: active
+run_id: a65be0c5fb14444c8e8f2c4dae403367
+run_name: chill-panda-798
+run_uuid: a65be0c5fb14444c8e8f2c4dae403367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779211551760
+status: 3
+tags: []
+user_id: Marah
