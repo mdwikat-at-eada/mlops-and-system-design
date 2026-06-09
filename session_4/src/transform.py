@@ -6,6 +6,7 @@ from metadata import (
     ONE_HOT_ENCODE_COLUMNS,
 )
 
+
 class Transformer:
     def __init__(self):
         self.drop_columns = COLUMNS_TO_DROP
