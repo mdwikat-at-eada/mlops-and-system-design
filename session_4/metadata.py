@@ -20,7 +20,4 @@ ONE_HOT_ENCODE_COLUMNS = [
     "Geography",
 ]
 
-MODEL_PARAMS = {
-    "max_depth": 5,
-    "random_state": 42
-}
+MODEL_PARAMS = {"max_depth": 5, "random_state": 42}
